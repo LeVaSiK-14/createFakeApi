@@ -1,0 +1,127 @@
+{
+  "inventory": [
+    {
+      "id": "056e7dbf-961b-4609-b3fd-8344b73de6b2",
+      "name": "BLINY",
+      "isInGoodCondition": true,
+      "quantity": 40,
+      "weight": 10,
+      "producedBy": "ROS IRON"
+    },
+    {
+      "id": "f827a7cf-b925-4833-b0d3-3cae76dbe657",
+      "name": "KOVRIK",
+      "isInGoodCondition": true,
+      "quantity": 40,
+      "weight": 10,
+      "producedBy": "oCoo SHIVA"
+    },
+    {
+      "id": "da1ed1ad-8316-4fe5-8195-00d172c65208",
+      "name": "KOVRIK",
+      "isInGoodCondition": true,
+      "quantity": 40,
+      "weight": 10,
+      "producedBy": "oCoo SHIVA"
+    },
+    {
+      "id": "106526a1-f8c7-40fe-b4c4-af3088957bf2",
+      "name": "SKAKALKA",
+      "isInGoodCondition": true,
+      "quantity": 12,
+      "weight": 0.1,
+      "producedBy": "Xiaomi"
+    },
+    {
+      "id": "a80b70de-2560-49ab-9203-ad1fadf57d26",
+      "name": "BLINY",
+      "isInGoodCondition": true,
+      "quantity": 40,
+      "weight": 10,
+      "producedBy": "ROS IRON"
+    },
+    {
+      "id": "e51d7444-0043-4097-a0fa-9b2bb4fc2da3",
+      "name": "KOVRIK",
+      "isInGoodCondition": true,
+      "quantity": 40,
+      "weight": 10,
+      "producedBy": "oCoo SHIVA"
+    },
+    {
+      "id": "aec2a8cc-7604-40aa-90e6-58e44f1f816d",
+      "name": "KOVRIK",
+      "isInGoodCondition": true,
+      "quantity": 40,
+      "weight": 10,
+      "producedBy": "oCoo SHIVA"
+    },
+    {
+      "id": "f4218c93-b7e2-48fe-8168-380963cd2ece",
+      "name": "SKAKALKA111111",
+      "isInGoodCondition": true,
+      "quantity": 12,
+      "weight": 0.1,
+      "producedBy": "Xiaomi"
+    },
+    {
+      "id": "bfe9fa30-2405-4010-84ed-09ee36033f76",
+      "name": "SKAKALKA111111",
+      "isInGoodCondition": true,
+      "quantity": 12,
+      "weight": 0.1,
+      "producedBy": "Xiaomi"
+    }
+  ],
+  "trainer": [
+    {
+      "id": "8021f341-c90f-4732-8e12-ea20adaf1254",
+      "name": "Юра123456789",
+      "isGood": true,
+      "age": 45,
+      "weight": 80
+    },
+    {
+      "id": "e4a576fd-1662-45ce-a157-458ed221ab35",
+      "name": "Юра2",
+      "isGood": false,
+      "age": 25,
+      "weight": 80
+    },
+    {
+      "id": "91b6ae6f-3a21-48db-a5e6-6cf55d67c3d5",
+      "name": "Юра3",
+      "isGood": true,
+      "age": 36,
+      "weight": 80
+    },
+    {
+      "id": "11c760df-1175-4308-8450-8a75e7714550",
+      "name": "Юра4",
+      "isGood": true,
+      "age": 35,
+      "weight": 80
+    },
+    {
+      "id": "5f05707c-1902-46f5-a5a3-8fe9f95eb27b",
+      "name": "Юра5",
+      "isGood": false,
+      "age": 38,
+      "weight": 80
+    },
+    {
+      "id": "555bc00a-7284-445b-985a-d67fba6b7480",
+      "name": "Юра",
+      "isGood": true,
+      "age": 45,
+      "weight": 80
+    },
+    {
+      "id": "a713d977-db91-4df4-a9f4-77e417f43f3e",
+      "name": "Юра1234567890",
+      "isGood": true,
+      "age": 45,
+      "weight": 80
+    }
+  ]
+}
